@@ -1,4 +1,3 @@
-# clash
 # clash 使用教程
 ## 下载安装
 - clash客户端[原版](https://github.com/Fndroid/clash_for_windows_pkg/releases)
